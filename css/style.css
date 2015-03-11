@@ -1,0 +1,58 @@
+/*
+font-family: 'Lobster', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Alegreya', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Raleway', sans-serif;
+*/
+
+body {
+		text-align: center;
+		font-family:'Cinzel';
+}
+h1 {
+	font-size:3em;
+	line-height: 1.2em;
+}
+h3 {
+		font-family:sans-serif;
+		font-weight:lighter;
+}
+
+button {
+	padding:2em;
+	border-radius: .5em;
+	background-color:black;
+	color:white;
+	border:none;
+}
+
+button:hover {
+	background-color:#eee;
+	color:black;
+}
+
+button:active {
+	background-color:#bbb;
+}
+
+.cinzel {
+	font-family: 'Cinzel';
+}
+
+.tangerine {
+	font-family:'Tangerine';
+}
+
+.raleway {
+	font-family:'Raleway';
+}
+
+.lobster {
+	font-family:'Lobster';
+}
+
+.alegreya {
+	font-family: 'Dancing Script';
+}
